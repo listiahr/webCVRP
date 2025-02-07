@@ -357,7 +357,7 @@ if selected == "App Instruction":
         - The file must contain a distance matrix between customers in a table format. 
         - Accepted file format: `.xlsx`.
         - The distance matrix cannot be empty.
-        - Distance matrix input rules: [Click here]("https://binusianorg-my.sharepoint.com/personal/listiarini_hadirianti_binus_ac_id/_layouts/15/guestaccess.aspx?share=ETAFLO0CqvBMtuSRvWdMX2kBiEtscvmSlyozA6yKL0zt7A&e=WuSAI0").
+        - Distance matrix input rules: [Click here](https://binusianorg-my.sharepoint.com/personal/listiarini_hadirianti_binus_ac_id/_layouts/15/guestaccess.aspx?share=ETAFLO0CqvBMtuSRvWdMX2kBiEtscvmSlyozA6yKL0zt7A&e=WuSAI0).
 
     2. **Fill in Parameters:**
         - Enter the calculation parameters with the following conditions:
@@ -409,5 +409,5 @@ if selected == "About App":
     )
     st.markdown(
     """
-    Check how POA Work : [Click here]("https://binusianorg-my.sharepoint.com/personal/listiarini_hadirianti_binus_ac_id/_layouts/15/guestaccess.aspx?share=ETAFLO0CqvBMtuSRvWdMX2kBiEtscvmSlyozA6yKL0zt7A&e=WuSAI0").
+    Check how POA Work : [Click here](https://binusianorg-my.sharepoint.com/personal/listiarini_hadirianti_binus_ac_id/_layouts/15/guestaccess.aspx?share=ETAFLO0CqvBMtuSRvWdMX2kBiEtscvmSlyozA6yKL0zt7A&e=WuSAI0).
     """)
