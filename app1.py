@@ -139,7 +139,6 @@ def main_POA(pop_size, n_cust, distance_matrix, demands, vehicle_capacity, max_i
                 best_route = current_best_route
                 biaya_optimum = calculate_total_biaya(best_distance, gaji_supir, biaya_maintain, harga_BBM, rasio_bbm_jarak)
 
-        population = np.array(new_population)
         best_solution = {'iterasi' : best_iteration, 'best_pelican' : best_pelican , 'best_route' : best_route, 'best_distance' : int(best_distance), 'total_biaya' : int(biaya_optimum)}
         population_data[iteration+1] = {
             'iterasi' : iteration+1,
